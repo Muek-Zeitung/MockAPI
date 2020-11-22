@@ -1,25 +1,70 @@
 {
+    "muekEdition" : {
+        "editionNumber": 1,
+        "editionMonth": "Juni 2020",
+        "editionTopic": "Tiere",
+        "isPublished": true
+    },
     "articles": [
         {
-            "articleId": 1,
-            "id": 1,
-            "title": "Feature Thema Headline 1",
-            "imgUrl":"https://via.placeholder.com/600/771796",
-            "text": "bbbbOvit occabor aceptibus, quaectio. Nam aritaspide omniend erferum quae voluptate nimin porro explaborem as repro volor simi, sam unt. Nulparupta quaspellat quunt esciis quias dest eicabor porepedi odit que doloreh enisque nis commo blaut ium vendandit aute nobis dolupta tquaessequam faceatiatis nonsenimus, qui imporem dolorro enimil in nonsectibus modia nam vel et et esto te vollam, ut adicia bbbbOvit occabor aceptibus, quaectio. Nam aritaspide omniend erferum quae voluptate nimin porro explaborem as repro volor simi, sam unt. Nulparupta quaspellat quunt esciis quias dest eicabor porepedi odit que doloreh enisque nis commo blaut ium vendandit aute nobis dolupta tquaessequam faceatiatis nonsenimus, qui imporem dolorro enimil in nonsectibus modia nam vel et et esto te vollam, ut adicia"
-        },
-        {
             "articleId": 2,
-            "id": 2,
-            "title": "Feature Thema Headline 2",
-            "imgUrl":"https://via.placeholder.com/600/771796",
-            "text": "bbbbOvit occabor aceptibus, quaectio. Nam aritaspide omniend erferum quae voluptate nimin porro explaborem as repro volor simi, sam unt. Nulparupta quaspellat quunt esciis quias dest eicabor porepedi odit que doloreh enisque nis commo blaut ium vendandit aute nobis dolupta tquaessequam faceatiatis nonsenimus, qui imporem dolorro enimil in nonsectibus modia nam vel et et esto te vollam, ut adicia bbbbOvit occabor aceptibus, quaectio. Nam aritaspide omniend erferum quae voluptate nimin porro explaborem as repro volor simi, sam unt. Nulparupta quaspellat quunt esciis quias dest eicabor porepedi odit que doloreh enisque nis commo blaut ium vendandit aute nobis dolupta tquaessequam faceatiatis nonsenimus, qui imporem dolorro enimil in nonsectibus modia nam vel et et esto te vollam, ut adicia"
+            "titleText": "Affen sind stark",
+            "titleTextColor": "#4d0100",
+            "titleBackgroundColor": "#FD5C5A",
+            "thumbnailUrl":"https://via.placeholder.com/100/771796",
+            "description": "Affen sind stark, aber wie stark sind sie wirklich?",
+            "articleMetaInfo":
+                {
+                    "filterCriteria": "Tiere, München",
+                    "keywords": "Tiere,Lachen, München,MÜK,Kinderredaktion",
+                    "timestamp": "2020-11-04T17:44:59+00:00"
+                },
+            "articleContent": "<div  style=\"background-color: coral;\"><div><strong>Flaschen werfen, sich Eiswasser &uuml;ber den Kopf kippen, Klopapier kicken: Challenges machen einfach Spa&szlig;! Und ganz sch&ouml;n verr&uuml;ckt, wie schnell sich manche weltweit verbreiten. Das Beste: Viele erf&uuml;llen einen richtig guten Zweck.</strong></div><div>&nbsp;</div><h3>Affen lieben es zu klettern</h3><div style=\"text-align: justify;\">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</div> <div>&nbsp;</div> <div style=\"text-align: justify;\">The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from 'de Finibus Bonorum et Malorum' by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</div><div>&nbsp;</div><div style=\"text-align: center;\"><img src=\"https://via.placeholder.com/350x200?text=Bild+von+Affen\" alt=\"\" width=\"359\" height=\"205\" /></div><div>&nbsp;</div></div>"
         },
         {
             "articleId": 3,
-            "id": 3,
-            "title": "Feature Thema Headline 3",
-            "imgUrl":"https://via.placeholder.com/600/771796",
-            "text": "bbbbOvit occabor aceptibus, quaectio. Nam aritaspide omniend erferum quae voluptate nimin porro explaborem as repro volor simi, sam unt. Nulparupta quaspellat quunt esciis quias dest eicabor porepedi odit que doloreh enisque nis commo blaut ium vendandit aute nobis dolupta tquaessequam faceatiatis nonsenimus, qui imporem dolorro enimil in nonsectibus modia nam vel et et esto te vollam, ut adicia bbbbOvit occabor aceptibus, quaectio. Nam aritaspide omniend erferum quae voluptate nimin porro explaborem as repro volor simi, sam unt. Nulparupta quaspellat quunt esciis quias dest eicabor porepedi odit que doloreh enisque nis commo blaut ium vendandit aute nobis dolupta tquaessequam faceatiatis nonsenimus, qui imporem dolorro enimil in nonsectibus modia nam vel et et esto te vollam, ut adicia"
+            "titleText": "Bären sind stark",
+            "titleTextColor": "#4d0100",
+            "titleBackgroundColor": "#FD5C5A",
+            "thumbnailUrl":"https://via.placeholder.com/100/955cff",
+            "description": "Bären sind stark, aber warum schlafen sie immer?",
+            "articleMetaInfo":
+                {
+                    "filterCriteria": "Tiere, München",
+                    "keywords": "Tiere,Lachen, München,MÜK,Kinderredaktion",
+                    "timestamp": "2020-11-04T17:44:59+00:00"
+                },
+            "articleContent": "<div  style=\"background-color: coral;\"><div><strong>Flaschen werfen, sich Eiswasser &uuml;ber den Kopf kippen, Klopapier kicken: Challenges machen einfach Spa&szlig;! Und ganz sch&ouml;n verr&uuml;ckt, wie schnell sich manche weltweit verbreiten. Das Beste: Viele erf&uuml;llen einen richtig guten Zweck.</strong></div><div>&nbsp;</div><h3>Affen lieben es zu klettern</h3><div style=\"text-align: justify;\">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</div> <div>&nbsp;</div> <div style=\"text-align: justify;\">The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from 'de Finibus Bonorum et Malorum' by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</div><div>&nbsp;</div><div style=\"text-align: center;\"><img src=\"https://via.placeholder.com/350x200?text=Bild+von+Affen\" alt=\"\" width=\"359\" height=\"205\" /></div><div>&nbsp;</div></div>"
+        },
+        {
+            "articleId": 4,
+            "titleText": "Pferde sind groß",
+            "titleTextColor": "#4d0100",
+            "titleBackgroundColor": "#FD5C5A",
+            "thumbnailUrl":"https://via.placeholder.com/100/771796",
+            "description": "Pferde sind groß aber warum essen sie nur Gras?",
+            "articleMetaInfo":
+                {
+                    "filterCriteria": "Tiere, München",
+                    "keywords": "Tiere,Lachen, München,MÜK,Kinderredaktion",
+                    "timestamp": "2020-11-04T17:44:59+00:00"
+                },
+            "articleContent": "<div  style=\"background-color: coral;\"><div><strong>Flaschen werfen, sich Eiswasser &uuml;ber den Kopf kippen, Klopapier kicken: Challenges machen einfach Spa&szlig;! Und ganz sch&ouml;n verr&uuml;ckt, wie schnell sich manche weltweit verbreiten. Das Beste: Viele erf&uuml;llen einen richtig guten Zweck.</strong></div><div>&nbsp;</div><h3>Affen lieben es zu klettern</h3><div style=\"text-align: justify;\">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</div> <div>&nbsp;</div> <div style=\"text-align: justify;\">The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from 'de Finibus Bonorum et Malorum' by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</div><div>&nbsp;</div><div style=\"text-align: center;\"><img src=\"https://via.placeholder.com/350x200?text=Bild+von+Affen\" alt=\"\" width=\"359\" height=\"205\" /></div><div>&nbsp;</div></div>"
+        },
+        {
+            "articleId": 5,
+            "titleText": "Haie sind zahm",
+            "titleTextColor": "#4d0125",
+            "titleBackgroundColor": "#AD5C5A",
+            "thumbnailUrl":"https://via.placeholder.com/100/771796",
+            "description": "Haie sind in Wirklichkeit zahm und lassen sich gerne von Surfern streicheln",
+            "articleMetaInfo":
+                {
+                    "filterCriteria": "Tiere, München",
+                    "keywords": "Tiere,Lachen, München,MÜK,Kinderredaktion",
+                    "timestamp": "2020-11-04T17:44:59+00:00"
+                },
+            "articleContent": "<div  style=\"background-color: coral;\"><div><strong>Flaschen werfen, sich Eiswasser &uuml;ber den Kopf kippen, Klopapier kicken: Challenges machen einfach Spa&szlig;! Und ganz sch&ouml;n verr&uuml;ckt, wie schnell sich manche weltweit verbreiten. Das Beste: Viele erf&uuml;llen einen richtig guten Zweck.</strong></div><div>&nbsp;</div><h3>Affen lieben es zu klettern</h3><div style=\"text-align: justify;\">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</div> <div>&nbsp;</div> <div style=\"text-align: justify;\">The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from 'de Finibus Bonorum et Malorum' by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</div><div>&nbsp;</div><div style=\"text-align: center;\"><img src=\"https://via.placeholder.com/350x200?text=Bild+von+Affen\" alt=\"\" width=\"359\" height=\"205\" /></div><div>&nbsp;</div></div>"
         }
     ]
 }

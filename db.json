@@ -1,70 +1,206 @@
 {
-    "muekEdition" : {
-        "editionNumber": 1,
-        "editionMonth": "Juni 2020",
-        "editionTopic": "Tiere",
-        "isPublished": true
-    },
-    "articles": [
-        {
-            "articleId": 2,
-            "titleText": "Affen sind stark",
-            "titleTextColor": "#4d0100",
-            "titleBackgroundColor": "#FD5C5A",
-            "thumbnailUrl":"https://via.placeholder.com/100/771796",
-            "description": "Affen sind stark, aber wie stark sind sie wirklich?",
-            "articleMetaInfo":
-                {
-                    "filterCriteria": "Tiere, München",
-                    "keywords": "Tiere,Lachen, München,MÜK,Kinderredaktion",
-                    "timestamp": "2020-11-04T17:44:59+00:00"
-                },
-            "articleContent": "<div  style=\"background-color: coral;\"><div><strong>Flaschen werfen, sich Eiswasser &uuml;ber den Kopf kippen, Klopapier kicken: Challenges machen einfach Spa&szlig;! Und ganz sch&ouml;n verr&uuml;ckt, wie schnell sich manche weltweit verbreiten. Das Beste: Viele erf&uuml;llen einen richtig guten Zweck.</strong></div><div>&nbsp;</div><h3>Affen lieben es zu klettern</h3><div style=\"text-align: justify;\">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</div> <div>&nbsp;</div> <div style=\"text-align: justify;\">The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from 'de Finibus Bonorum et Malorum' by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</div><div>&nbsp;</div><div style=\"text-align: center;\"><img src=\"https://via.placeholder.com/350x200?text=Bild+von+Affen\" alt=\"\" width=\"359\" height=\"205\" /></div><div>&nbsp;</div></div>"
-        },
-        {
-            "articleId": 3,
-            "titleText": "Bären sind stark",
-            "titleTextColor": "#4d0100",
-            "titleBackgroundColor": "#FD5C5A",
-            "thumbnailUrl":"https://via.placeholder.com/100/955cff",
-            "description": "Bären sind stark, aber warum schlafen sie immer?",
-            "articleMetaInfo":
-                {
-                    "filterCriteria": "Tiere, München",
-                    "keywords": "Tiere,Lachen, München,MÜK,Kinderredaktion",
-                    "timestamp": "2020-11-04T17:44:59+00:00"
-                },
-            "articleContent": "<div  style=\"background-color: coral;\"><div><strong>Flaschen werfen, sich Eiswasser &uuml;ber den Kopf kippen, Klopapier kicken: Challenges machen einfach Spa&szlig;! Und ganz sch&ouml;n verr&uuml;ckt, wie schnell sich manche weltweit verbreiten. Das Beste: Viele erf&uuml;llen einen richtig guten Zweck.</strong></div><div>&nbsp;</div><h3>Affen lieben es zu klettern</h3><div style=\"text-align: justify;\">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</div> <div>&nbsp;</div> <div style=\"text-align: justify;\">The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from 'de Finibus Bonorum et Malorum' by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</div><div>&nbsp;</div><div style=\"text-align: center;\"><img src=\"https://via.placeholder.com/350x200?text=Bild+von+Affen\" alt=\"\" width=\"359\" height=\"205\" /></div><div>&nbsp;</div></div>"
-        },
-        {
-            "articleId": 4,
-            "titleText": "Pferde sind groß",
-            "titleTextColor": "#4d0100",
-            "titleBackgroundColor": "#FD5C5A",
-            "thumbnailUrl":"https://via.placeholder.com/100/771796",
-            "description": "Pferde sind groß aber warum essen sie nur Gras?",
-            "articleMetaInfo":
-                {
-                    "filterCriteria": "Tiere, München",
-                    "keywords": "Tiere,Lachen, München,MÜK,Kinderredaktion",
-                    "timestamp": "2020-11-04T17:44:59+00:00"
-                },
-            "articleContent": "<div  style=\"background-color: coral;\"><div><strong>Flaschen werfen, sich Eiswasser &uuml;ber den Kopf kippen, Klopapier kicken: Challenges machen einfach Spa&szlig;! Und ganz sch&ouml;n verr&uuml;ckt, wie schnell sich manche weltweit verbreiten. Das Beste: Viele erf&uuml;llen einen richtig guten Zweck.</strong></div><div>&nbsp;</div><h3>Affen lieben es zu klettern</h3><div style=\"text-align: justify;\">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</div> <div>&nbsp;</div> <div style=\"text-align: justify;\">The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from 'de Finibus Bonorum et Malorum' by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</div><div>&nbsp;</div><div style=\"text-align: center;\"><img src=\"https://via.placeholder.com/350x200?text=Bild+von+Affen\" alt=\"\" width=\"359\" height=\"205\" /></div><div>&nbsp;</div></div>"
-        },
-        {
-            "articleId": 5,
-            "titleText": "Haie sind zahm",
-            "titleTextColor": "#4d0125",
-            "titleBackgroundColor": "#AD5C5A",
-            "thumbnailUrl":"https://via.placeholder.com/100/771796",
-            "description": "Haie sind in Wirklichkeit zahm und lassen sich gerne von Surfern streicheln",
-            "articleMetaInfo":
-                {
-                    "filterCriteria": "Tiere, München",
-                    "keywords": "Tiere,Lachen, München,MÜK,Kinderredaktion",
-                    "timestamp": "2020-11-04T17:44:59+00:00"
-                },
-            "articleContent": "<div  style=\"background-color: coral;\"><div><strong>Flaschen werfen, sich Eiswasser &uuml;ber den Kopf kippen, Klopapier kicken: Challenges machen einfach Spa&szlig;! Und ganz sch&ouml;n verr&uuml;ckt, wie schnell sich manche weltweit verbreiten. Das Beste: Viele erf&uuml;llen einen richtig guten Zweck.</strong></div><div>&nbsp;</div><h3>Affen lieben es zu klettern</h3><div style=\"text-align: justify;\">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</div> <div>&nbsp;</div> <div style=\"text-align: justify;\">The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from 'de Finibus Bonorum et Malorum' by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</div><div>&nbsp;</div><div style=\"text-align: center;\"><img src=\"https://via.placeholder.com/350x200?text=Bild+von+Affen\" alt=\"\" width=\"359\" height=\"205\" /></div><div>&nbsp;</div></div>"
-        }
-    ]
+	"data": [
+		{
+			"article_background_color": "#D5E71F",
+			"category": {
+				"key": "other",
+				"value": "other",
+				"label": "Sonstige"
+			},
+			"collection": {
+				"id": "articles",
+				"title": "Beiträge",
+				"api_url": null
+			},
+			"dynamic_content": [
+				{
+					"text": "Ein ganz normaler Textblock steht hier... Lorem ipsum trallala. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+					"type": "textblock"
+				},
+				{
+					"image": {
+						"id": "assets::DFZX4769.JPG",
+						"url": "/assets/DFZX4769.JPG",
+						"permalink": "https://via.placeholder.com/800x800/771796?text=Grosses+Bild",
+						"api_url": null
+					},
+					"caption": "Eine Bildunterschrift...",
+					"type": "bild"
+				},
+				{
+					"subline": "Hier eine Zwischenüberschrift",
+					"type": "zwischenueberschrift"
+				},
+				{
+					"text": "Dann nochmal ein bisschen Text zur Abwechslung. Ladida, mir ist etwas frisch, meine Finger sind gefroren und ich kann nicht tippen.",
+					"type": "textblock"
+				},
+				{
+					"list_type": {
+						"key": "unordered",
+						"value": "unordered",
+						"label": "Ungeordnete Liste"	
+					},
+					"list_elements": [
+						{
+							"list_element": "Eine Katze",
+							"type": "listen-element"
+						},
+						{
+							"list_element": "Ein Boot",
+							"type": "listen-element"
+						},
+						{
+							"list_element": "Ein Pferd",
+							"type": "listen-element"
+						}
+					]
+				},
+				{
+					"audio": {
+						"id": "assets::Hermit-van-Dyke---Background-Music-Collection-Vol.-II---01-suspicious-intro.mp3",
+						"url": "/assets/Hermit-van-Dyke---Background-Music-Collection-Vol.-II---01-suspicious-intro.mp3",
+						"permalink": "http://chris-conway.de/magic/sample-audio.mp3",
+						"api_url": null
+					},
+					"caption": "Hier ein Text, der zu der Audio-Datei gehört...",
+					"type": "audio"
+				}
+			],
+			"id": "40bd5580-c5bc-40d9-8a8b-36ad9c4a25ee",
+			"last_modified": "2020-12-28T15:48:40.000000Z",
+			"preview_image": {
+				"id": "assets::Bildschirmfoto-2015-08-09-um-20.46.14.png",
+				"url": "/assets/Bildschirmfoto-2015-08-09-um-20.46.14.png",
+				"permalink": "https://via.placeholder.com/350x200?text=Bild+von+Affen",
+				"api_url": null
+			},
+			"published": true,
+			"subline": "Eine Subline für die Vorschau des Beitrags...",
+			"subtitle_text_color": "#2E9749",
+			"tags": [
+				{
+					"id": "tags::basteln",
+					"title": "Basteln",
+					"slug": "basteln",
+					"url": "/articles/tags/basteln",
+					"permalink": "http://127.0.0.1:8000/articles/tags/basteln",
+					"api_url": null
+				},
+				{
+					"id": "tags::halloween",
+					"title": "Halloween",
+					"slug": "halloween",
+					"url": "/articles/tags/halloween",
+					"permalink": "http://127.0.0.1:8000/articles/tags/halloween",
+					"api_url": null
+				}
+			],
+			"teaser": "Das ist der Teaser, der im Artikel unterhalb der Überschrift fettgedruckt dargestellt wird. Er hat keine Längenbeschränkung.",
+			"title": "Dies ist die Überschrift mit max. 50 Zeichen",
+			"title_text_color": "#84D724",
+			"updated_at": "2020-12-28T15:48:40.000000Z"
+		},
+		{
+			"article_background_color": "#AE5E4D",
+			"category": {
+				"key": "other",
+				"value": "other",
+				"label": "Politik"
+			},
+			"collection": {
+				"id": "articles",
+				"title": "Beiträge",
+				"api_url": null
+			},
+			"dynamic_content": [
+				{
+					"text": "Ein ganz normaler Textblock steht hier... Lorem ipsum trallala. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+					"type": "textblock"
+				},
+				{
+					"image": {
+						"id": "assets::DFZX4769.JPG",
+						"url": "/assets/DFZX4769.JPG",
+						"permalink": "https://via.placeholder.com/800x800/771796?text=Grosses+Bild",
+						"api_url": null
+					},
+					"caption": "Eine Bildunterschrift...",
+					"type": "bild"
+				},
+				{
+					"subline": "Hier eine Zwischenüberschrift",
+					"type": "zwischenueberschrift"
+				},
+				{
+					"text": "Dann nochmal ein bisschen Text zur Abwechslung. Ladida, mir ist etwas frisch, meine Finger sind gefroren und ich kann nicht tippen.",
+					"type": "textblock"
+				},
+				{
+					"list_type": {
+						"key": "ordered",
+						"value": "ordered",
+						"label": "Geordnete Liste"	
+					},
+					"list_elements": [
+						{
+							"list_element": "Eine Katze",
+							"type": "listen-element"
+						},
+						{
+							"list_element": "Ein Boot",
+							"type": "listen-element"
+						},
+						{
+							"list_element": "Ein Pferd",
+							"type": "listen-element"
+						}
+					]
+				},
+				{
+					"audio": {
+						"id": "assets::Hermit-van-Dyke---Background-Music-Collection-Vol.-II---01-suspicious-intro.mp3",
+						"url": "/assets/Hermit-van-Dyke---Background-Music-Collection-Vol.-II---01-suspicious-intro.mp3",
+						"permalink": "http://chris-conway.de/magic/sample-audio.mp3",
+						"api_url": null
+					},
+					"caption": "Hier ein Text, der zu der Audio-Datei gehört...",
+					"type": "audio"
+				}
+			],
+			"id": "40bd5580-c5bc-40d9-8a8b-36ad9c4a25ee",
+			"last_modified": "2020-12-28T15:48:40.000000Z",
+			"preview_image": {
+				"id": "assets::Bildschirmfoto-2015-08-09-um-20.46.14.png",
+				"url": "/assets/Bildschirmfoto-2015-08-09-um-20.46.14.png",
+				"permalink": "https://via.placeholder.com/350x200?text=Bild+von+Affen",
+				"api_url": null
+			},
+			"published": true,
+			"subline": "Eine Subline für die Vorschau des Beitrags...",
+			"subtitle_text_color": "#2E9749",
+			"tags": [
+				{
+					"id": "tags::basteln",
+					"title": "Basteln",
+					"slug": "basteln",
+					"url": "/articles/tags/basteln",
+					"permalink": "http://127.0.0.1:8000/articles/tags/basteln",
+					"api_url": null
+				},
+				{
+					"id": "tags::halloween",
+					"title": "Halloween",
+					"slug": "halloween",
+					"url": "/articles/tags/halloween",
+					"permalink": "http://127.0.0.1:8000/articles/tags/halloween",
+					"api_url": null
+				}
+			],
+			"teaser": "BlablablaBlubb TEaser Toaster Roaster Teaser Toaster Roaster TEaser Toaster Roaster Teaser Toaster Roaster TEaser Toaster Roaster Teaser Toaster Roaster TEaser Toaster Roaster Teaser Toaster Roaster TEaser Toaster Roaster Teaser Toaster Roaster",
+			"title": "Artikel über Bären",
+			"title_text_color": "#050505",
+			"updated_at": "2020-12-28T15:48:40.000000Z"
+		}
+	]
 }

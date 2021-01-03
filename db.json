@@ -32,6 +32,16 @@
 					"type": "zwischenueberschrift"
 				},
 				{
+					"video": {
+						"id": "assets::Hermit-van-Dyke---Background-Music-Collection-Vol.-II---01-suspicious-intro.mp4",
+						"url": "/assets/Hermit-van-Dyke---Background-Music-Collection-Vol.-II---01-suspicious-intro.mp4",
+						"permalink": "http://chris-conway.de/magic/sample-vid.MP4",
+						"api_url": null
+					},
+					"caption": "Hier ein Text, der zu der Video-Datei gehört...",
+					"type": "video"
+				},
+				{
 					"text": "Dann nochmal ein bisschen Text zur Abwechslung. Ladida, mir ist etwas frisch, meine Finger sind gefroren und ich kann nicht tippen.",
 					"type": "textblock"
 				},

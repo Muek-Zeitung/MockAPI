@@ -156,7 +156,8 @@
 							"list_element": "Ein Pferd",
 							"type": "listen-element"
 						}
-					]
+					],
+					"type": "list"
 				},
 				{
 					"audio": {

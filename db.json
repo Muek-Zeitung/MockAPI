@@ -52,20 +52,11 @@
 						"label": "Ungeordnete Liste"	
 					},
 					"list_elements": [
-						{
-							"list_element": "Eine Katze",
-							"type": "listen-element"
-						},
-						{
-							"list_element": "Ein Boot",
-							"type": "listen-element"
-						},
-						{
-							"list_element": "Ein Pferd",
-							"type": "listen-element"
-						}
+						"Eine Katze",
+						"Ein Boot",
+						"Ein Pferd"
 					],
-					"type": "list"
+					"type": "liste"
 				},
 				{
 					"audio": {
@@ -154,20 +145,11 @@
 						"label": "Geordnete Liste"	
 					},
 					"list_elements": [
-						{
-							"list_element": "Eine Katze",
-							"type": "listen-element"
-						},
-						{
-							"list_element": "Ein Boot",
-							"type": "listen-element"
-						},
-						{
-							"list_element": "Ein Pferd",
-							"type": "listen-element"
-						}
+						"Eine Katze",
+						"Ein Boot",
+						"Ein Pferd"
 					],
-					"type": "list"
+					"type": "liste"
 				},
 				{
 					"audio": {

@@ -15,7 +15,7 @@
 			"dynamic_content": [
 				{
 					"text": "Ein ganz normaler Textblock steht hier... Lorem ipsum trallala. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
-					"type": "textblock"
+					"type": "text"
 				},
 				{
 					"image": {
@@ -25,11 +25,11 @@
 						"api_url": null
 					},
 					"caption": "Eine Bildunterschrift...",
-					"type": "bild"
+					"type": "image"
 				},
 				{
 					"subline": "Hier eine Zwischenüberschrift",
-					"type": "zwischenueberschrift"
+					"type": "subline"
 				},
 				{
 					"video": {
@@ -43,7 +43,7 @@
 				},
 				{
 					"text": "Dann nochmal ein bisschen Text zur Abwechslung. Ladida, mir ist etwas frisch, meine Finger sind gefroren und ich kann nicht tippen.",
-					"type": "textblock"
+					"type": "text"
 				},
 				{
 					"list_type": {
@@ -56,7 +56,7 @@
 						"Ein Boot",
 						"Ein Pferd"
 					],
-					"type": "liste"
+					"type": "list"
 				},
 				{
 					"audio": {
@@ -78,8 +78,8 @@
 				"api_url": null
 			},
 			"published": true,
-			"subline": "Eine Subline für die Vorschau des Beitrags...",
-			"subtitle_text_color": "#2E9749",
+			"preview_text": "Eine Subline für die Vorschau des Beitrags...",
+			"sublines_text_color": "#2E9749",
 			"tags": [
 				{
 					"id": "tags::basteln",
@@ -98,7 +98,6 @@
 					"api_url": null
 				}
 			],
-			"teaser": "Das ist der Teaser, der im Artikel unterhalb der Überschrift fettgedruckt dargestellt wird. Er hat keine Längenbeschränkung.",
 			"title": "Dies ist die Überschrift mit max. 50 Zeichen",
 			"title_text_color": "#84D724",
 			"updated_at": "2020-12-28T15:48:40.000000Z"
@@ -118,7 +117,7 @@
 			"dynamic_content": [
 				{
 					"text": "Ein ganz normaler Textblock steht hier... Lorem ipsum trallala. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
-					"type": "textblock"
+					"type": "text"
 				},
 				{
 					"image": {
@@ -128,15 +127,15 @@
 						"api_url": null
 					},
 					"caption": "Eine Bildunterschrift...",
-					"type": "bild"
+					"type": "image"
 				},
 				{
 					"subline": "Hier eine Zwischenüberschrift",
-					"type": "zwischenueberschrift"
+					"type": "subline"
 				},
 				{
 					"text": "Dann nochmal ein bisschen Text zur Abwechslung. Ladida, mir ist etwas frisch, meine Finger sind gefroren und ich kann nicht tippen.",
-					"type": "textblock"
+					"type": "text"
 				},
 				{
 					"list_type": {
@@ -149,7 +148,7 @@
 						"Ein Boot",
 						"Ein Pferd"
 					],
-					"type": "liste"
+					"type": "list"
 				},
 				{
 					"audio": {
@@ -171,8 +170,8 @@
 				"api_url": null
 			},
 			"published": true,
-			"subline": "Eine Subline für die Vorschau des Beitrags...",
-			"subtitle_text_color": "#2E9749",
+			"preview_text": "Eine Subline für die Vorschau des Beitrags...",
+			"sublines_text_color": "#2E9749",
 			"tags": [
 				{
 					"id": "tags::basteln",
@@ -191,7 +190,6 @@
 					"api_url": null
 				}
 			],
-			"teaser": "BlablablaBlubb TEaser Toaster Roaster Teaser Toaster Roaster TEaser Toaster Roaster Teaser Toaster Roaster TEaser Toaster Roaster Teaser Toaster Roaster TEaser Toaster Roaster Teaser Toaster Roaster TEaser Toaster Roaster Teaser Toaster Roaster",
 			"title": "Artikel über Bären",
 			"title_text_color": "#050505",
 			"updated_at": "2020-12-28T15:48:40.000000Z"

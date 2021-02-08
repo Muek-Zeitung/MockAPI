@@ -21,7 +21,7 @@
 					"image": {
 						"id": "assets::DFZX4769.JPG",
 						"url": "/assets/DFZX4769.JPG",
-						"permalink": "https://via.placeholder.com/800x800/771796?text=Grosses+Bild",
+						"permalink": "http://www.chris-conway.de/magic/MockImageArticle1.png",
 						"api_url": null
 					},
 					"caption": "Eine Bildunterschrift...",
@@ -74,7 +74,7 @@
 			"preview_image": {
 				"id": "assets::Bildschirmfoto-2015-08-09-um-20.46.14.png",
 				"url": "/assets/Bildschirmfoto-2015-08-09-um-20.46.14.png",
-				"permalink": "https://via.placeholder.com/350x200?text=Bild+von+Affen",
+				"permalink": "http://www.chris-conway.de/magic/MockThumbArticle1.png",
 				"api_url": null
 			},
 			"published": true,
@@ -123,7 +123,7 @@
 					"image": {
 						"id": "assets::DFZX4769.JPG",
 						"url": "/assets/DFZX4769.JPG",
-						"permalink": "https://via.placeholder.com/800x800/771796?text=Grosses+Bild",
+						"permalink": "http://www.chris-conway.de/magic/MockImageArticle2.png",
 						"api_url": null
 					},
 					"caption": "Eine Bildunterschrift...",
@@ -166,7 +166,7 @@
 			"preview_image": {
 				"id": "assets::Bildschirmfoto-2015-08-09-um-20.46.14.png",
 				"url": "/assets/Bildschirmfoto-2015-08-09-um-20.46.14.png",
-				"permalink": "https://via.placeholder.com/350x200?text=Bild+von+Affen",
+				"permalink": "http://www.chris-conway.de/magic/MockThumbArticle2.png",
 				"api_url": null
 			},
 			"published": true,

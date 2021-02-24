@@ -10475,64 +10475,6 @@
 			"title": "Artikel über Bären",
 			"title_text_color": "#050505",
 			"updated_at": "2020-08-28T15:48:40.000000Z"
-		},
-		{
-			"article_background_color": "#D5E71F",
-			"category": {
-				"key": "other",
-				"value": "other",
-				"label": "Sonstige"
-			},
-			"collection": {
-				"id": "articles",
-				"title": "Beiträge",
-				"api_url": null
-			},
-			"dynamic_content": [
-				{
-					"text": "Ein ganz normaler Textblock steht hier... Lorem ipsum trallala. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
-					"type": "text"
-				},
-				{
-					"image": {
-						"id": "assets::DFZX4769.JPG",
-						"url": "/assets/DFZX4769.JPG",
-						"permalink": "https://statamic.muek.info//assets//articles//images//Dannero.jpg",
-						"api_url": null
-					},
-					"caption": "Eine Bildunterschrift...",
-					"type": "image"
-				},
-				{
-					"subline": "Hier eine Zwischenüberschrift",
-					"type": "subline"
-				},
-				{
-					"video": {
-						"id": "assets::Hermit-van-Dyke---Background-Music-Collection-Vol.-II---01-suspicious-intro.mp4",
-						"url": "/assets/Hermit-van-Dyke---Background-Music-Collection-Vol.-II---01-suspicious-intro.mp4",
-						"permalink": "http://www.chris-conway.de/magic/MockVideo.MP4",
-						"api_url": null
-					},
-					"caption": "Hier ein Text, der zu der Video-Datei gehört...",
-					"type": "video"
-				},
-				{
-					"text": "Dann nochmal ein bisschen Text zur Abwechslung. Ladida, mir ist etwas frisch, meine Finger sind gefroren und ich kann nicht tippen.",
-					"type": "text"
-				},
-				{
-					"list_type": {
-						"key": "unordered",
-						"value": "unordered",
-						"label": "Ungeordnete Liste"	
-					},
-					"list_elements": [
-						"Eine Katze",
-						"Ein Boot",
-						"Ein Pferd"
-					],
-					"type": "list"
-				}
+		}
 	]
 }
